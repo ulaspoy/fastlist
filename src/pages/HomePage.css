@@ -1,0 +1,15 @@
+/* src/pages/HomePage.css */
+.home-page {
+    padding: 20px;
+    color: #fff;
+}
+
+.home-page h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.list-container {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,17 @@
+.list-item {
+    background-color: #3a5a6a;
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.list-item h3 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.list-item p {
+    margin: 5px 0;
+    font-size: 14px;
+}

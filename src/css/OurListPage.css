@@ -1,0 +1,15 @@
+/* src/pages/OurListPage.css */
+.our-list-page {
+    padding: 20px;
+    color: #333;
+    background-color: #ffebee;
+}
+
+.our-list-page h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.our-list-page p {
+    font-size: 16px;
+}

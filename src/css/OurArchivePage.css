@@ -1,0 +1,15 @@
+/* src/pages/OurArchivePage.css */
+.our-archive-page {
+    padding: 20px;
+    color: #333;
+    background-color: #fce4ec;
+}
+
+.our-archive-page h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.our-archive-page p {
+    font-size: 16px;
+}

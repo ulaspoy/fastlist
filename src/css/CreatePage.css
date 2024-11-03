@@ -1,0 +1,32 @@
+/* src/pages/CreatePage.css */
+.create-page {
+    padding: 20px;
+    color: #fff;
+}
+
+.create-page h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.title-input, .item-input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+}
+
+.add-item-btn, .save-btn {
+    background-color: #3a5a6a;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.add-item-btn:hover, .save-btn:hover {
+    background-color: #4a6b7b;
+}
